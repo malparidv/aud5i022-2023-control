@@ -1,4 +1,4 @@
-// Desarrollador por: Benjamin Espinoza, Diego López, Antonia en FAU U de   Chile
+// Desarrollador por: Benjamin Espinoza, Diego López, Antonia Vásquez en FAU U de   Chile
 
 
 //damos indicaciones al arduino de en donde estan conectados los LEDs, el potenciometro y el boton.
